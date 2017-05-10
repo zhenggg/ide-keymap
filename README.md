@@ -1,7 +1,7 @@
 
+<h2>Java</h2>
 <table>
 <thead>
-<tr><th align="center">Java </th></tr>
 <tr>
 <th align="center">功能</th>
 <th align="center">IntelliJ IDEA</th>
