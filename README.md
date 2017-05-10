@@ -7,7 +7,7 @@ ide keymap
 <th align="center">Eclipse</th>
 </tr></thead>
 <tbody>
-<tr><td colspan="3" align="center"><code>阅读代码</code></td></tr>
+<tr><td colspan="3" align="center"><b>阅读代码</b></td></tr>
 <tr>
 
 <td align="center">跳转查看实现类</td>
