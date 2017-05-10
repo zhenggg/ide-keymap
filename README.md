@@ -1,4 +1,4 @@
-<h3> Java </h3>
+<h2 align="center"> Java </h2>
 <table>
 <thead><tr>
 <th align="center">功能</th>
