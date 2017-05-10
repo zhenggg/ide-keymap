@@ -1,6 +1,8 @@
-<h2 align="center"> Java </h2>
+
 <table>
-<thead><tr>
+<thead>
+<tr  align="center"><b>Java </b></tr>
+<tr>
 <th align="center">功能</th>
 <th align="center">IntelliJ IDEA</th>
 <th align="center">Eclipse</th>
