@@ -53,7 +53,7 @@ ide keymap
 <td align="center"> </td>
 <td align="center">Ctrl + O</td>
 </tr>
-<tr><td colspan="3" align="center"><code>修改代码</code></td></tr>
+<tr><td colspan="3" align="center"><b>修改代码</b></td></tr>
 <tr>
 <td align="center">自我修复（实现接口、强转类型）</td>
 <td align="center">Alt + Enter</td>
@@ -84,7 +84,7 @@ ide keymap
 <td align="center"> </td>
 <td align="center">Ctrl + Shift + 左右方向键</td>
 </tr>
-<tr><td colspan="3" align="center"><code>删除移动</code></td></tr>
+<tr><td colspan="3" align="center"><b>删除移动</b></td></tr>
 <tr>
 <td align="center">删除当前行</td>
 <td align="center">Ctrl + Y</td>
@@ -105,7 +105,7 @@ ide keymap
 <td align="center">Shift + Enter</td>
 <td align="center">Shift + Enter</td>
 </tr>
-<tr><td colspan="3" align="center"><code>格式化</code></td></tr>
+<tr><td colspan="3" align="center"><b>格式化</b></td></tr>
 <tr>
 <td align="center">格式化代码</td>
 <td align="center">Ctrl + Alt + L</td>
@@ -116,7 +116,7 @@ ide keymap
 <td align="center">Ctrl + Alt + O</td>
 <td align="center">Ctrl + Shift + O</td>
 </tr>
-<tr><td colspan="3" align="center"><code>注释</code></td></tr>
+<tr><td colspan="3" align="center"><b>注释</b></td></tr>
 <tr>
 <td align="center">注释当前行</td>
 <td align="center">Ctrl + /</td>
@@ -127,7 +127,7 @@ ide keymap
 <td align="center"> </td>
 <td align="center">Alt + Shift + J</td>
 </tr>
-<tr><td colspan="3" align="center"><code>自动生成</code></td></tr>
+<tr><td colspan="3" align="center"><b>自动生成</b></td></tr>
 <tr>
 <td align="center">get set 构造方法</td>
 <td align="center">alt+insert </td>
