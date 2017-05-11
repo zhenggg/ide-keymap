@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td align="center">自动补全</td>
-<td align="center"> </td>
+<td align="center">Ctrl + Shift + space </td>
 <td align="center">Alt + /</td>
 </tr>
 <tr>
