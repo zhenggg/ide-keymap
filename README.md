@@ -25,7 +25,7 @@
 <td align="center">Ctrl+Home/End</td>
 </tr>
 <tr>
-<td align="center">call hierarchy(哪里调用的这个方法)</td>
+<td align="center">call hierarchy(哪里调用了这个方法)</td>
 <td align="center">Ctrl+Alt+H</td>
 <td align="center">Ctrl+Alt+H</td>
 </tr>
@@ -136,7 +136,7 @@
 <tr><td colspan="3" align="center"><b>自动生成</b></td></tr>
 <tr>
 <td align="center">get set 构造方法</td>
-<td align="center">alt+insert </td>
+<td align="center">Alt+Insert </td>
 <td align="center">Alt + Shift + S</td>
 </tr>
 <tr>
