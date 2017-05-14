@@ -20,6 +20,11 @@
 <td align="center"></td>
 </tr>
 <tr>
+<td align="center">列出文件内所有的方法名</td>
+<td align="center">Ctrl+F12</td>
+<td align="center">Shift+O</td>
+</tr>
+<tr>
 <td align="center">最近打开的文件</td>
 <td align="center">Ctrl+e</td>
 <td align="center">Alt+r</td>
