@@ -25,6 +25,11 @@
 <td align="center">Ctrl+Home/End</td>
 </tr>
 <tr>
+<td align="center">call hierarchy(哪里调用的这个方法)</td>
+<td align="center">Ctrl+Alt+H</td>
+<td align="center">Ctrl+Alt+H</td>
+</tr>
+<tr>
 <td align="center">查看所选中类的继承树</td>
 <td align="center">Ctrl+H</td>
 <td align="center">Ctrl+T</td>
