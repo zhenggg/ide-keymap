@@ -10,11 +10,16 @@
 <tbody>
 <tr><td colspan="3" align="center"><b>阅读代码</b></td></tr>
 <tr>
-
 <td align="center">跳转查看实现类</td>
 <td align="center">ctrl+alt+b</td>
 <td align="center"></td>
 </tr>
+<tr>
+<td align="center">搜索类</td>
+<td align="center">Ctrl+n</td>
+<td align="center"></td>
+</tr>
+<tr>
 <td align="center">最近打开的文件</td>
 <td align="center">Ctrl+e</td>
 <td align="center">Alt+r</td>
