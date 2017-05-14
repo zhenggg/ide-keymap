@@ -4,7 +4,7 @@
 <thead>
 <tr>
 <th align="center">功能</th>
-<th align="center">IntelliJ IDEA</th>
+<th align="center">IntelliJ IDEA<a href="https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf">参考</a></th>
 <th align="center">Eclipse</th>
 </tr></thead>
 <tbody>
