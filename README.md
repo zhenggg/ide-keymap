@@ -71,6 +71,11 @@
 </tr>
 <tr><td colspan="3" align="center"><b>修改代码</b></td></tr>
 <tr>
+<td align="center">大小写转换</td>
+<td align="center">ctr+shift+u</td>
+<td align="center"> </td>
+</tr>
+<tr>
 <td align="center">自我修复（实现接口、强转类型）</td>
 <td align="center">Alt + Enter</td>
 <td align="center"> </td>
